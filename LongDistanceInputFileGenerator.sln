@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongDistanceInputFileGenerator", "LongDistanceInputFileGenerator\LongDistanceInputFileGenerator.csproj", "{1FCD8FFF-0B64-483D-9379-69D96C855CF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helpers", "Helpers\Helpers.csproj", "{202DF212-6CD4-4C41-BE56-8D3F42B2A09E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Input Generator Setup", "Input Generator Setup\Input Generator Setup.vdproj", "{932B541D-89A5-4C20-9EE0-88C9373F3E54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,12 @@ Global
 		{1FCD8FFF-0B64-483D-9379-69D96C855CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FCD8FFF-0B64-483D-9379-69D96C855CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FCD8FFF-0B64-483D-9379-69D96C855CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{202DF212-6CD4-4C41-BE56-8D3F42B2A09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202DF212-6CD4-4C41-BE56-8D3F42B2A09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202DF212-6CD4-4C41-BE56-8D3F42B2A09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202DF212-6CD4-4C41-BE56-8D3F42B2A09E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{932B541D-89A5-4C20-9EE0-88C9373F3E54}.Debug|Any CPU.ActiveCfg = Debug
+		{932B541D-89A5-4C20-9EE0-88C9373F3E54}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
